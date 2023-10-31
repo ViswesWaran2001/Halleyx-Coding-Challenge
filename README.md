@@ -1,24 +1,39 @@
 # Halleyx-Coding-Challenge
 
 Web page designer
+
 Objective:
-The intent of the challenge is to build a visual web page designer. This designer should allow
-users to build and publish web pages using the designer. The published web pages should be
+
+The intent of the challenge is to build a visual web page designer. This designer should allow users to build and publish web pages using the designer. The published web pages should be
 accessible in the browser by the user
+
 Description:
 The web designer should have a toolbox with the following
+
 ● Layout
+
 ● Label
+
 ● Button
+
 ● Text box
+
 ● Dropdown
+
 ● Check box
+
 ● Radio button
+
 ● Table
+
 ● Navigation link
+
 ● Image
+
 Important:
+
 Design view
+
 1. The user should be able to define the layout using the layout element (e.g. when the
 user click layout the design mode should allow the user to define columns and rows,
 merged columns and rows in order to achieve the required design layout)
