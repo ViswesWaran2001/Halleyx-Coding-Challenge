@@ -16,8 +16,9 @@
 
 3. Start the Project
 
-   "npm run dev"
+  "npm run dev"
 
+![Screenshot (326)](https://github.com/ViswesWaran2001/Halleyx-Coding-Challenge/assets/112861114/e26c4117-bf61-487d-af63-f004807ab141)
 
    
 
